@@ -1,0 +1,12 @@
+*.parquet
+*.csv
+*.pkl
+*.cbm
+*.json
+__pycache__/
+.env
+secrets.py
+runtime_secrets.py
+access_token.txt
+backtest_data*/
+model_family_artifacts*/
