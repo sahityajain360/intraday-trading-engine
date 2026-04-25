@@ -187,5 +187,5 @@ between training and production.
 Built as part of independent quantitative trading research by Sahitya Rajeev Jain,
 undergraduate student at Manipal Institute of Technology (B.Tech CSE AI & ML, 2023–27).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahitya--rajeev--jain-blue)](https://linkedin.com/in/sahitya-rajeev-jain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahitya--rajeev--jain-blue)](https://www.linkedin.com/in/sahitya360/)
 [![GitHub](https://img.shields.io/badge/GitHub-sahityajain360-black)](https://github.com/sahityajain360)
